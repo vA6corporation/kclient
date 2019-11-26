@@ -20,7 +20,7 @@ function createWindow () {
   })
   mainWindow.maximize();
   // and load the index.html of the app.
-  mainWindow.loadURL('http://localhost:8080');
+  mainWindow.loadURL('https://kramvi.com');
   // mainWindow.toggleDevTools();
 
   // Open the DevTools.
